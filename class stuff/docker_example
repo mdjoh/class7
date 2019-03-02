@@ -1,0 +1,8 @@
+# docker -ti
+# -v : sets directory/volume we are mounting
+# ${PWD} stores working directory
+# -w : sets working directory
+
+# -w{PWD} sets the pwd directory when docker container is turned on
+
+FROM 
