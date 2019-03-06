@@ -69,5 +69,5 @@ for idx, column1 in enumerate(dataframe):
 		data2 = dataframe[column2]
 		plt.scatter(data1, data2)
 
-- save files like last time
+- save files like step 4
 
